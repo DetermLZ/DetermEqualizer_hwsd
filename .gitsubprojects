@@ -1,2 +1,2 @@
 # -*- mode: cmake -*-
-git_subproject(  Lunchbox https://github.com/Determtech/DetermEqualizer_Lunchbox.git master)
+git_subproject(  Lunchbox https://github.com/DetermLZ/DetermEqualizer_Lunchbox.git master)
